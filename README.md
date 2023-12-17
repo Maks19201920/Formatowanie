@@ -8,4 +8,4 @@ Product3	15	150	2250
 Total				5450
 =====================================
 </pre>
-<a HREF = https://maks19201920.github.io/Maks/> Strona Główna<a/>
+
